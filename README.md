@@ -31,7 +31,10 @@ IT 전문가로서 서버 및 DB 관리, 품질 관리 및 QA, 테스트 자동�
 ## 🔋 **Stats** 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigjunhyeok)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🏆 **My Expertise**
+## 🏆 **Trophy**
+[![trophy](https://github-profile-trophy.vercel.app/?username=bigjunhyeok)](https://github.com/ryo-ma/github-profile-trophy)
+
+##  **My Expertise**
 
 ### 1️⃣ 서버 및 인프라 관리
 - **Red Hat 계열 리눅스, UNIX(AIX, Solaris) 시스템 운영 및 관리**
