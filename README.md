@@ -7,19 +7,14 @@ IT 전문가로서 서버 및 DB 관리, 품질 관리 및 QA, 테스트 자동�
 ## 📌 Stack
 ### Language
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-
 ### Editor
 <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=white"/>
-
 ### Server
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/LinuxServer-DA3B8A?style=flat-square&logo=LinuxServer&logoColor=white"/> <img src="https://img.shields.io/badge/RedHat-EE0000?style=flat-square&logo=RedHat&logoColor=white"/>
-
 ### Database
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-
 ### Tool
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=Mattermost&logoColor=white"/> <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=Nextcloud&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=Notepad++&logoColor=white"/>
-
 ### Social
 <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/>
 
@@ -29,12 +24,12 @@ IT 전문가로서 서버 및 DB 관리, 품질 관리 및 QA, 테스트 자동�
 - **📚 지식 공유**: 블로그 및 리포지터리를 통해 IT 지식과 경험을 공유
 
 ## 🔋 **Stats** 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigjunhyeok&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigjunhyeok&show_icons=true&theme=dark)
 
 ## 🏆 **Trophy**
 [![trophy](https://github-profile-trophy.vercel.app/?username=bigjunhyeok)](https://github.com/ryo-ma/github-profile-trophy)
 
-##  **My Expertise**
+## 🔎 **My Expertise**
 
 ### 1️⃣ 서버 및 인프라 관리
 - **Red Hat 계열 리눅스, UNIX(AIX, Solaris) 시스템 운영 및 관리**
