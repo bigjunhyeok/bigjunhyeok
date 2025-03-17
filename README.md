@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Speech&color=1E90FF&height=200&section=header&text=I%20keep%20going,%20no%20matter%20what.&fontSize=60&fontColor=FFFFFF)
 
-# 🚀 Welcome to My Special Profile
-
 ## 👨‍💻 About Me
 IT 전문가로서 서버 및 DB 관리, 품질 관리 및 QA, 테스트 자동화 개발, 그리고 엔지니어링 분야에서 다년간의 경험을 쌓아왔습니다. 
 효율적인 시스템 운영과 품질 개선을 위한 최적의 기술을 제공하는 것을 목표로 합니다.
