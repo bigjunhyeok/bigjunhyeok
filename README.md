@@ -41,7 +41,7 @@ IT 전문가로서 서버 및 DB 관리, 품질 관리 및 QA, 테스트 자동�
 - **TortoiseSVN**: 버전 관리
 - **Notion, Upnote, notepad++, Google Docs**: 문서 정리 및 지식 관리
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=공식_명칭&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 ## 🎯 **Current Goals**
 - **🔥 1일 1 커밋**: 꾸준한 개발 및 GitHub 활동 유지
