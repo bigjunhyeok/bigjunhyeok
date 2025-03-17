@@ -56,10 +56,13 @@ IT 전문가로서 서버 및 DB 관리, 품질 관리 및 QA, 테스트 자동�
 ### Tool
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=Mattermost&logoColor=white"/> <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=Nextcloud&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=Notepad++&logoColor=white"/>
 
-## Social
-<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/>
+### Social
+<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/>
 
 ## 🎯 **Current Goals**
 - **🔥 1일 1 커밋**: 꾸준한 개발 및 GitHub 활동 유지
 - **🤖 자동화 & 최적화**: 반복적인 업무를 자동화하여 효율성 극대화
 - **📚 지식 공유**: 블로그 및 리포지터리를 통해 IT 지식과 경험을 공유
+
+## 🔋 **Stats** 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigjunhyeok)](https://github.com/anuraghazra/github-readme-stats)
