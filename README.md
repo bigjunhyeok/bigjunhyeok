@@ -50,7 +50,7 @@ IT 전문가로서 서버 및 DB 관리, 품질 관리 및 QA, 테스트 자동�
 ### Server
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/LinuxServer-DA3B8A?style=flat-square&logo=LinuxServer&logoColor=white"/>
-<img src="https://img.shields.io/badge/Red Hat-EE0000?style=flat-square&logo=Red Hat&logoColor=white"/>
+<img src="https://img.shields.io/badge/RedHat-EE0000?style=flat-square&logo=RedHat&logoColor=white"/>
 
 ### Database
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
