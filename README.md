@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Speech&color=1E90FF&height=150&section=header&text=I%20keep%20going,%20no%20matter%20what.&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=Speech&color=1E90FF&height=200&section=header&text=I%20keep%20going,%20no%20matter%20what.&fontSize=60&fontColor=FFFFFF)
 
 # 🚀 Welcome to My Special Profile
 
