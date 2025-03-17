@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=My%20Name%20is%20Bigjun.&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text="I%20keep%20going,%20no%20matter%20what."%30-Bigjun.&fontSize=90)
 
 # 🚀 Welcome to My Special Profile
 
