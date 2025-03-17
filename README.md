@@ -29,7 +29,7 @@ IT 전문가로서 서버 및 DB 관리, 품질 관리 및 QA, 테스트 자동�
 - **📚 지식 공유**: 블로그 및 리포지터리를 통해 IT 지식과 경험을 공유
 
 ## 🔋 **Stats** 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigjunhyeok)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigjunhyeok&show_icons=true&theme=radical)
 
 ## 🏆 **Trophy**
 [![trophy](https://github-profile-trophy.vercel.app/?username=bigjunhyeok)](https://github.com/ryo-ma/github-profile-trophy)
