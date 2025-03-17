@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#000000&height=300&section=header&text=My%20Name%20is%20Bigjun.&fontSize=90&fontColor=#FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=My%20Name%20is%20Bigjun.&fontSize=90)
 
 # 🚀 Welcome to My Special Profile
 
