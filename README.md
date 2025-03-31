@@ -69,4 +69,4 @@ IT 전문가로서 서버 및 DB 관리, 품질 관리 및 QA, 테스트 자동�
 - **GitHub / GitLab**: 소스 코드 관리 및 협업
 - **JIRA, Slack, Mattermost, Hiworks**: 프로젝트 관리 및 팀 커뮤니케이션
 - **TortoiseSVN**: 버전 관리
-- **Notion, Upnote, notepad++, Google Docs**: 문서 정리 및 지식 관리
+- **Obsidian, Notion, Upnote, Confluence, notepad++, Google Docs**: 문서 정리 및 지식 관리
